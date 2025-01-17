@@ -41,3 +41,4 @@ terraform.rc
 
 # public/secrets keys 
 *.pem
+*:Zone.Identifier
